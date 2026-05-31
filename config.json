@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpecrypt",
+        "uuid": 372900,
+        "checksum": "ble5kf"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
